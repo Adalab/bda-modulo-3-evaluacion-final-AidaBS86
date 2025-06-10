@@ -30,7 +30,7 @@ EJERCICIO TÉCNICO FINAL MÓDULO 3: TRANSFORMANDO DATOS
   Código bien comentado, legible y ordenado.  
   Uso de funciones para modularizar el código y facilitar su reutilización.  
 
-- Se valora:
+- Se valora:  
   Análisis exploratorio de los datos.  
   Gestión de datos nulos.  
   Visualización de datos con matplotlib y seaborn.  
